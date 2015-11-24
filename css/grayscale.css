@@ -122,6 +122,10 @@ a:focus {
     color: #fff;
 }
 
+.modal .modal-dialog .modal-lg{
+	color: #fff;
+}
+
 @media(min-width:768px) {
     .navbar-custom {
         padding: 20px 0;
@@ -365,6 +369,8 @@ footer p {
     background: #fcfcfc;
     background: rgba(255,255,255,.2);
 }
+
+
 
 ::selection {
     text-shadow: none;
