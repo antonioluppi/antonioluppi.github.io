@@ -1,0 +1,42 @@
+baseURL = "http://antonioluppi.github.io/"
+languageCode = "en-us"
+title = "Antonio Luppi"
+theme = "prologue"
+
+[params]
+  name = "Antonio Luppi"
+  description = "pretends that knows something about Hardware"
+  copyright = "Untitled."
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/antonioluppi"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://br.linkedin.com/in/antonioluppi"
+
+[[params.social]]
+  medium = "wordpress"
+  icon = "wordpress"
+  link = "antonioluppi.wordpress.com"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "intagram.com/antonioluppi"
+# Portfolio 
+
+[[params.portfolio1]]
+  title = "Portfolio and Blog"
+  alt = ""
+  source = "img/pic02.jpg"
+  url = "antonioluppi.wordpress.com"
+
+[[params.portfolio2]]
+  title = "Aprenda Calistenia"
+  alt = ""
+  source = "img/pic02.jpg"
+  url = "aprendacalistenia.wordpress.com"
