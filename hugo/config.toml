@@ -44,9 +44,9 @@ theme = "hugo-identity-theme"
     position = "Electrical Engineer"
     livesIn = "[Florianópolis, Brazil](#some-maps-url)"
     scope = [
-        "Freelancer [Hardware Engineer](antonioluppi.wordpress.com)",
-       "[fitness nerd](aprendacalistenia.wordpress.com) in the free time",
-       "and OSH advocate and board member of [Tarrafa Hacker Club](tarrafa.net)",
+        "[Freelancer Hardware Engineer](antonioluppi.wordpress.com)",
+       "and [fitness nerd blogger](aprendacalistenia.wordpress.com) in the free time",
+      # "and OSH advocate and board member of [Tarrafa Hacker Club](tarrafa.net)",
       ]
   #  biography = """Jane Powers is plain awesome. He worked at Corp A and B and is open for new work.  Even new lines and other markdown styles are working within the bio."""
 
@@ -100,12 +100,12 @@ theme = "hugo-identity-theme"
   [[params.social]]
     title = "Instagram"
     icon = "fa-instagram"
-    link = "instagram.com/antonioluppi"
+    link = "https://instagram.com/antonioluppi"
 
   [[params.social]]
     title = "Portfolio & Blog"
     icon = "fa-wordpress"
-    link = "antonioluppi.wordpress.com"
+    link = "https://antonioluppi.wordpress.com"
     
   [[params.social]]
 	title= "github"
@@ -120,12 +120,12 @@ theme = "hugo-identity-theme"
   [[params.social]]
     title = "My other blog in calisthenics [pt-br]"
     icon = "fa-wordpress"
-    link = "aprendacalistenia.wordpress.com"
+    link = "https://aprendacalistenia.wordpress.com"
 
   # Footer settings
   [params.footer]
     # If copyright is not set, author is used
-    # copyright = "Innovation inc"
+      copyright = "Antonio Carlos Luppi Júnior"
 
   # Page license
   [params.license]
