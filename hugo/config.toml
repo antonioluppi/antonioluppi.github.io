@@ -42,12 +42,12 @@ theme = "hugo-identity-theme"
     # Avatars can be written to images/avatars/
     avatar = "avatar.jpg"
     position = "Electrical Engineer"
-    livesIn = "[Florianópolis, Brazil](#some-maps-url)"
-    scope = [
-        "[Freelancer Hardware Engineer](antonioluppi.wordpress.com)",
-       "and [fitness nerd blogger](aprendacalistenia.wordpress.com) in the free time",
-      # "and OSH advocate and board member of [Tarrafa Hacker Club](tarrafa.net)",
-      ]
+#   livesIn = "[Florianópolis, Brazil](#some-maps-url)"
+#   scope = [
+#       "[Freelancer Hardware Engineer](https://antonioluppi.wordpress.com)",
+#      "and [fitness nerd blogger](https://aprendacalistenia.wordpress.com) in the free time",
+#       "and OSH advocate and board member of [Tarrafa Hacker Club](tarrafa.net)",
+#     ]
   #  biography = """Jane Powers is plain awesome. He worked at Corp A and B and is open for new work.  Even new lines and other markdown styles are working within the bio."""
 
 
