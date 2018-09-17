@@ -1,0 +1,18 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hugo-nederburg-theme"]
+	path = themes/hugo-nederburg-theme
+	url = https://github.com/appernetic/hugo-nederburg-theme
+[submodule "themes/hugo-steam-theme"]
+	path = themes/hugo-steam-theme
+	url = https://github.com/digitalcraftsman/hugo-steam-theme
+[submodule "themes/hugo-theme-blueberry-detox"]
+	path = themes/hugo-theme-blueberry-detox
+	url = https://github.com/allnightgrocery/hugo-theme-blueberry-detox
+[submodule "themes/hugo-theme-bleak"]
+	path = themes/hugo-theme-bleak
+	url = https://github.com/Zenithar/hugo-theme-bleak
+[submodule "themes/startbootstrap-clean-blog"]
+	path = themes/startbootstrap-clean-blog
+	url = https://github.com/humboldtux/startbootstrap-clean-blog
